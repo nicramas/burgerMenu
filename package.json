@@ -1,0 +1,32 @@
+{
+  "name": "sass",
+  "version": "2.0.0",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp sass"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.28.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.58.3"
+  },
+  "browserslist": [
+    "defaults"
+  ],
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicramas/template-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicramas/template-test/issues"
+  },
+  "homepage": "https://github.com/nicramas/template-test#readme",
+  "description": ""
+}
